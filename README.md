@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently on my 5th out of 8 semesters in my Software Engeneering course<br>I aim to become a fullstack developer<br>Currently Learning TypeScript<br>She/Her
+I’m currently on my 5th out of 8 semesters in my Software Engeneering course<br>I aim to become a fullstack developer<br>Currently Learning TypeScript<br>
 
 
 # 💻 Learning & Using:
